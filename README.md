@@ -5,8 +5,7 @@ Eris is a chaos monkey tool for the excellent ldap3 library <https://github.com/
 
 Eris continously generates random objects and performs operations against your Active Directory
 or Samba domain controller. This project was created to test certain systems being developed at
-https://www.steelhive.com by producing error generating situations and simulating the directory
-services activity found in real world deployments.
+https://www.steelhive.com by producing error generating situations through the simulation of directory services activity found in real world deployments.
 
 **WARNING: Do not run this against a production server unless you know what you're doing!**
 
