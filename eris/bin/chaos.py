@@ -1,4 +1,4 @@
-#1 /usr/bin/env python3
+#! /usr/bin/env python3
 
 #
 # Eris, A chaos monkey for ldap3.
