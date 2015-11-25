@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='Eris',
+    name='eris',
     version='0.1',
     author='William Palmer',
     author_email='will@steelhive.com',
